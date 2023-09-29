@@ -3,7 +3,8 @@
 
 
 ## Description
-A version of the 2D game "Rhythm Swipe" written in Java using Processing. For more information, please check out the Rhythm Swipe Website here: https://projectrhythmswipe.netlify.app/ 
+A version of the 2D game "Rhythm Swipe" written in Java using Processing. It is currently in development for further expansion as a web browser game.
+For more information, please check out the Rhythm Swipe Website here: https://projectrhythmswipe.netlify.app/ or the GitHub repository here: https://github.com/FrancisTR/Rhythm-Swipe
 
 
 

@@ -4,6 +4,7 @@
 
 ## Description
 A version of the 2D game "Rhythm Swipe" written in Java using Processing.<br>
+This project was displayed at the Creative Coding Exhibition at the University of St. Thomas, MN<br>
 For more information, watch the <a href="https://www.youtube.com/watch?v=rgs-iTpvMRE" target="_blank">Rhythm Swipe Demo</a>.
 
 ## Language Used

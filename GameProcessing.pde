@@ -916,9 +916,6 @@ void draw() {
       myString = myString.strip();
       println(myString);
       
-      //if(myString.equals("cal")){
-      //  println("les go");
-      //}
       
       if (canMove){
         if (myString.equals("ccw")) {

@@ -70,7 +70,6 @@ void loop(){
     }
     brightBright = brightBright+100;
     Serial.println(brightBright);
-    // Serial.println("Calibrated");
   }
 
 

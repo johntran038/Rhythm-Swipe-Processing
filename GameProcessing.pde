@@ -937,23 +937,6 @@ void draw() {
           pressByBeat = 0;
           //println("space");
         }
-    //  if (keyCode == LEFT) {
-    //    // moveWidth -= tileSize;
-    //    playerCounter-= 1;
-    //    counterRevise();
-    //    player.turn();
-    //    //println("left");
-    //  } else if (keyCode == RIGHT) {
-    //    // moveWidth += tileSize;
-    //    playerCounter+= 1;
-    //    counterRevise();
-    //    player.turn();
-    //    //println("right");
-    //  } else if (keyCode == ' ') { //Space bar
-    //    player.move();
-    //    pressByBeat = 0;
-    //    //println("space");
-    //  }
       }
     }
   }

@@ -1,4 +1,4 @@
-#Arduino Source Code
+# Arduino Source Code
 
-#Instructions
+<h2>Information</h2>
 This is what was uploaded to an Arduino via the ArduinoIDE.

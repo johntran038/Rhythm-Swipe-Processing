@@ -1,10 +1,9 @@
 # Welcome to the Rhythm Swipe (Processing) Repository
 
-
-
 ## Description
 A version of the 2D game "Rhythm Swipe" written in Java using Processing.<br>
-This project was displayed at the Creative Coding Exhibition at the University of St. Thomas, MN<br>
+This project was displayed at the Creative Coding Exhibition at the University of St. Thomas, MN<be>
+The purpose of this project was to demonstrate how to apply creative expression to programming and inspire future programmers to create similar projects.
 For more information, watch the <a href="https://www.youtube.com/watch?v=rgs-iTpvMRE">Rhythm Swipe Demo</a>.
 
 ## Language Used
